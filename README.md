@@ -39,5 +39,7 @@
 
 ---
 
-[website]: https://ishantgaurav131.wordpress.com/
-[linkedin]: https://www.linkedin.com/in/ishant-gaurav-286b283a/
+### 📫 Reach me at 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ishant-gaurav-286b283a/)
+
+
