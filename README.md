@@ -32,7 +32,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservice Architecture Pattwer : API gateway: Password Validation Animation](https://ishantgaurav131.wordpress.com/2020/08/11/api-gateway/)
+- [Microservice Architecture Pattwer : API gateway](https://ishantgaurav131.wordpress.com/2020/08/11/api-gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ishantgaurav131.wordpress.com/)
