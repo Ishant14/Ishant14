@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing and designing web application using technologies as Java, Javascript, ReactJs etc.. .
 - 🌱 I’m currently learning more about clean coding and making my basics strong for designing complex architecture. 🤣
 - 👯 Available for Freelance projects/internship opportunities.
-- 🥅 2020 Goals: Write my on my blog about new interesting stuff.
+- 🥅 2020 Goals: Write more on my blog about interesting stuff.
 - ⚡ Fun fact: I love to write poems and play guitar sometime 🤣
 
 ### Languages and Tools:
