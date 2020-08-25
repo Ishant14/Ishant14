@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ishantgaurav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-gaurav-286b283a/)](https://www.linkedin.com/in/ishant-gaurav-286b283a/)
 [![Gmail Badge](https://img.shields.io/badge/-ishantgaurav-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ishantgaurav131@gmail.com)](mailto:abdullahalrifat95@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-ishantgaurav-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ishant.gaurav.7/)](https://www.facebook.com/ishant.gaurav.7/)
+[![stackoverflow Badge](https://img.shields.io/badge/-ishantgaurav-%231877F2.svg?&style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile)](https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile)
 
 
 - 🔭 I’m currently working on developing and designing web application using technologies as Java, Javascript, ReactJs etc.. .
