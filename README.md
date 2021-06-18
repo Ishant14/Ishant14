@@ -38,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microservice Architecture Pattwer : API gateway](https://ishantgaurav131.wordpress.com/2020/08/11/api-gateway/)
+- [Lazy Initialization in Java8](https://ishantgaurav.in/2021/06/13/lazy-initialization-using-lambdas-java8/) 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ishantgaurav131.wordpress.com/)
