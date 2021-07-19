@@ -1,14 +1,13 @@
-### Hi there, I'm Ishant Gaurav 👋 
+### Hi there, I'm Ishant Gaurav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-ishantgaurav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishant-gaurav-286b283a/)](https://www.linkedin.com/in/ishant-gaurav-286b283a/)
 [![Gmail Badge](https://img.shields.io/badge/-ishantgaurav-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ishantgaurav131@gmail.com)](mailto:abdullahalrifat95@gmail.com)
-[![stackoverflow Badge](https://img.shields.io/badge/-ishantgaurav-%231877F2.svg?&style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile)](https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile)
-
+[![stackoverflow Badge](https://img.shields.io/badge/-ishantgaurav-%231877F2.svg?&style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile)](https://stackoverflow.com/users/2323150/ishant-gaurav?tab=profile
 
 - 🔭 I’m currently working on developing and designing web application using technologies as Java, Javascript, ReactJs etc.. .
 - 🌱 I’m currently learning more about clean coding and making my basics strong for designing complex architecture. 🤣
 - 👯 Available for Freelance projects/internship opportunities.
-- 🥅 2020 Goals: Write more on my blog about interesting stuff.
+- 🥅 2021 Goals: Write more on my blog about interesting stuff.
 - ⚡ Fun fact: I love to write poems and play guitar sometime 🤣
 
 ### Languages and Tools:
@@ -31,6 +30,9 @@
 <br />
 <br />
 
+---
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Ishant14&amp;show_icons=true" alt="GitHub Stats"></p>
 ---
 
 
